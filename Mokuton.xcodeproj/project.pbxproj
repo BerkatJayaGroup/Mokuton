@@ -79,7 +79,6 @@
 				8367CFE327B2C9450058265E /* Mokuton */,
 				83FD592627B2D9620063F621 /* MokutonExample */,
 				8367CFE227B2C9450058265E /* Products */,
-				83FD593327B2D9810063F621 /* Frameworks */,
 				838FD41227B41771009A8154 /* Mokuton.podspec */,
 			);
 			sourceTree = "<group>";
@@ -127,13 +126,6 @@
 				83FD592E27B2D9630063F621 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
-			sourceTree = "<group>";
-		};
-		83FD593327B2D9810063F621 /* Frameworks */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			name = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
